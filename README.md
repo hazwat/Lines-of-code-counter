@@ -1,0 +1,2 @@
+# This is a stupid little rust executable that finds the amount of lines of code(this has to be readable in a text editor so a .exe wont be counted) in the current directory and then gives a response back
+## just add the ./target/debug folder to your environment variables %PATH% and then enter the command HowMany
